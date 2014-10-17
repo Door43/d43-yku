@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yku:home|Door43 (yku)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yku|d43-yku repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yku/archive/master.zip|d43-yku.zip]]
+
+**Recent Changes**
+{{changes>ns = yku}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yku|Ethnologue data]]
+
